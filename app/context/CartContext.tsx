@@ -37,19 +37,19 @@ const CartContext = createContext<CartContextValue | undefined>(undefined)
 const STORAGE_KEY = 'ecomm_cart_v1'
 
 export function CartProvider({ children }: { children: React.ReactNode }) {
-  const [items, setItems] = useState<CartItem[]>([])
+  const [items, setItems] = useState<CartItem[]>(() => {
+    try {
+      const raw = localStorage.getItem(STORAGE_KEY)
+      return raw ? JSON.parse(raw) : []
+    } catch {
+      return []
+    }
+  })
   const { isLoaded, isSignedIn } = useAuth()
   const { user } = useUser()
   const syncedCartKeyRef = useRef<string | null>(null)
 
-  useEffect(() => {
-    try {
-      const raw = localStorage.getItem(STORAGE_KEY)
-      if (raw) setItems(JSON.parse(raw))
-    } catch (e) {
-      console.warn('Failed to load cart from storage', e)
-    }
-  }, [])
+  // initial items are loaded via lazy useState initializer to avoid setState in effect
 
   useEffect(() => {
     try {
