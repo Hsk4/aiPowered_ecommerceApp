@@ -79,9 +79,13 @@ export default function ProductDetailsPage({ params }: { params: Promise<{ id: s
 
       return
     }
+      if (!product) {
+        setAlertMessage('Product unavailable')
+        return
+      }
 
-    addItem(product, quantity)
-    setAlertMessage(null)
+      addItem(product, quantity)
+      setAlertMessage(null)
   }
 
   React.useEffect(() => {
