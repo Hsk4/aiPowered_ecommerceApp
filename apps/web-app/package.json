@@ -3,9 +3,9 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start",
+    "dev": "cross-env NEXT_IGNORE_INCORRECT_LOCKFILE=1 next dev",
+    "build": "cross-env NEXT_IGNORE_INCORRECT_LOCKFILE=1 next build",
+    "start": "cross-env NEXT_IGNORE_INCORRECT_LOCKFILE=1 next start",
     "lint": "eslint"
   },
   "dependencies": {
@@ -27,6 +27,7 @@
     "babel-plugin-react-compiler": "1.0.0",
     "eslint": "^9",
     "eslint-config-next": "16.2.6",
+    "cross-env": "^7.0.3",
     "tailwindcss": "^4",
     "typescript": "^5"
   }
