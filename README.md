@@ -1,3 +1,42 @@
+# aiPowered_monorepo
+
+Monorepo workspace containing deployable apps and shared packages.
+
+Structure
+
+  ├── apps/
+  │   ├── web-app/           # Primary Next.js web application (existing)
+  │   └── admin-dashboard/   # Placeholder for admin tools
+  ├── packages/
+  │   ├── ui-kit/            # Shared UI components
+  │   ├── ts-config/         # Centralized TypeScript configurations
+  │   ├── eslint-config/     # Centralized ESLint config
+  │   └── utils/             # Shared helper functions
+
+Getting started
+
+1. Install workspace dependencies from the repo root:
+
+```bash
+npm run bootstrap
+```
+
+2. Run the web app locally:
+
+```bash
+npm run dev:web
+```
+
+3. Build the web app:
+
+```bash
+npm run build:web
+```
+
+Notes
+
+- The web app re-uses centralized configs: `packages/ts-config` and `packages/eslint-config`.
+- Add additional apps under `apps/` and internal libraries under `packages/`.
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
