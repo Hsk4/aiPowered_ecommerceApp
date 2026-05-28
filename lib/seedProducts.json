@@ -4,279 +4,319 @@
     "description": "Fitness-focused smartwatch with heart rate tracking and sleep insights.",
     "price": "199",
     "category": "electronics",
-    "image": "https://picsum.photos/seed/Aurora%20Smart%20Watch/800/800"
+    "image": "https://picsum.photos/seed/Aurora%20Smart%20Watch/800/800",
+    "embedding": []
   },
   {
     "title": "Linen Overshirt",
     "description": "Lightweight overshirt designed for layered everyday wear.",
     "price": "74",
     "category": "fashion",
-    "image": "https://picsum.photos/seed/Linen%20Overshirt/800/800"
+    "image": "https://picsum.photos/seed/Linen%20Overshirt/800/800",
+    "embedding": []
   },
   {
     "title": "Ceramic Mug Set",
     "description": "Matte finish mug set for coffee and tea moments.",
     "price": "38",
     "category": "home",
-    "image": "https://picsum.photos/seed/Ceramic%20Mug%20Set/800/800"
+    "image": "https://picsum.photos/seed/Ceramic%20Mug%20Set/800/800",
+    "embedding": []
   },
   {
     "title": "Flow Yoga Mat",
     "description": "Cushioned non-slip yoga mat for daily mobility and stretching.",
     "price": "52",
     "category": "sports",
-    "image": "https://picsum.photos/seed/Flow%20Yoga%20Mat/800/800"
+    "image": "https://picsum.photos/seed/Flow%20Yoga%20Mat/800/800",
+    "embedding": []
   },
   {
     "title": "Metro Sling Bag",
     "description": "Compact crossbody bag with a clean urban profile.",
     "price": "61",
     "category": "accessories",
-    "image": "https://picsum.photos/seed/Metro%20Sling%20Bag/800/800"
+    "image": "https://picsum.photos/seed/Metro%20Sling%20Bag/800/800",
+    "embedding": []
   },
   {
     "title": "Pulse Noise Headphones",
     "description": "Over-ear headphones tuned for immersive everyday listening.",
     "price": "149",
     "category": "electronics",
-    "image": "https://picsum.photos/seed/Pulse%20Noise%20Headphones/800/800"
+    "image": "https://picsum.photos/seed/Pulse%20Noise%20Headphones/800/800",
+    "embedding": []
   },
   {
     "title": "Halo Desk Lamp",
     "description": "Adjustable desk lamp with a warm reading light and slim profile.",
     "price": "46",
     "category": "home",
-    "image": "https://picsum.photos/seed/Halo%20Desk%20Lamp/800/800"
+    "image": "https://picsum.photos/seed/Halo%20Desk%20Lamp/800/800",
+    "embedding": []
   },
   {
     "title": "Trail Runner Shoes",
     "description": "Durable trail shoes built for grip and long-distance comfort.",
     "price": "128",
     "category": "sports",
-    "image": "https://picsum.photos/seed/Trail%20Runner%20Shoes/800/800"
+    "image": "https://picsum.photos/seed/Trail%20Runner%20Shoes/800/800",
+    "embedding": []
   },
   {
     "title": "Brew Coffee Grinder",
     "description": "Manual grinder with stainless steel burrs for fresh coffee.",
     "price": "57",
     "category": "home",
-    "image": "https://picsum.photos/seed/Brew%20Coffee%20Grinder/800/800"
+    "image": "https://picsum.photos/seed/Brew%20Coffee%20Grinder/800/800",
+    "embedding": []
   },
   {
     "title": "Sky Carry-On Suitcase",
     "description": "Hard-shell carry-on with smooth wheels for weekend travel.",
     "price": "139",
     "category": "travel",
-    "image": "https://picsum.photos/seed/Sky%20Carry-On%20Suitcase/800/800"
+    "image": "https://picsum.photos/seed/Sky%20Carry-On%20Suitcase/800/800",
+    "embedding": []
   },
   {
     "title": "Orbit Wireless Mouse",
     "description": "Silent-click mouse with ergonomic contours for work setups.",
     "price": "39",
     "category": "electronics",
-    "image": "https://picsum.photos/seed/Orbit%20Wireless%20Mouse/800/800"
+    "image": "https://picsum.photos/seed/Orbit%20Wireless%20Mouse/800/800",
+    "embedding": []
   },
   {
     "title": "Canvas Tote Bag",
     "description": "Reusable tote with reinforced handles and a roomy interior.",
     "price": "24",
     "category": "accessories",
-    "image": "https://picsum.photos/seed/Canvas%20Tote%20Bag/800/800"
+    "image": "https://picsum.photos/seed/Canvas%20Tote%20Bag/800/800",
+    "embedding": []
   },
   {
     "title": "Terra Candle",
     "description": "Scented candle with earthy notes and a clean burn.",
     "price": "31",
     "category": "home",
-    "image": "https://picsum.photos/seed/Terra%20Candle/800/800"
+    "image": "https://picsum.photos/seed/Terra%20Candle/800/800",
+    "embedding": []
   },
   {
     "title": "Peak Bottle",
     "description": "Insulated water bottle that keeps drinks cold for hours.",
     "price": "29",
     "category": "sports",
-    "image": "https://picsum.photos/seed/Peak%20Bottle/800/800"
+    "image": "https://picsum.photos/seed/Peak%20Bottle/800/800",
+    "embedding": []
   },
   {
     "title": "Nova Sunglasses",
     "description": "Lightweight UV-protective sunglasses with a modern frame.",
     "price": "69",
     "category": "fashion",
-    "image": "https://picsum.photos/seed/Nova%20Sunglasses/800/800"
+    "image": "https://picsum.photos/seed/Nova%20Sunglasses/800/800",
+    "embedding": []
   },
   {
     "title": "Arc Bluetooth Speaker",
     "description": "Portable speaker with crisp sound and all-day battery life.",
     "price": "89",
     "category": "electronics",
-    "image": "https://picsum.photos/seed/Arc%20Bluetooth%20Speaker/800/800"
+    "image": "https://picsum.photos/seed/Arc%20Bluetooth%20Speaker/800/800",
+    "embedding": []
   },
   {
     "title": "Stone Dinner Plates",
     "description": "Set of minimalist plates with a durable glazed finish.",
     "price": "63",
     "category": "home",
-    "image": "https://picsum.photos/seed/Stone%20Dinner%20Plates/800/800"
+    "image": "https://picsum.photos/seed/Stone%20Dinner%20Plates/800/800",
+    "embedding": []
   },
   {
     "title": "Sprint Running Shorts",
     "description": "Breathable running shorts with a lightweight flexible fit.",
     "price": "41",
     "category": "sports",
-    "image": "https://picsum.photos/seed/Sprint%20Running%20Shorts/800/800"
+    "image": "https://picsum.photos/seed/Sprint%20Running%20Shorts/800/800",
+    "embedding": []
   },
   {
     "title": "Classic Leather Belt",
     "description": "Polished leather belt designed for everyday and formal wear.",
     "price": "45",
     "category": "fashion",
-    "image": "https://picsum.photos/seed/Classic%20Leather%20Belt/800/800"
+    "image": "https://picsum.photos/seed/Classic%20Leather%20Belt/800/800",
+    "embedding": []
   },
   {
     "title": "Pixel Tablet Stand",
     "description": "Angled stand that keeps your tablet secure on any desk.",
     "price": "27",
     "category": "electronics",
-    "image": "https://picsum.photos/seed/Pixel%20Tablet%20Stand/800/800"
+    "image": "https://picsum.photos/seed/Pixel%20Tablet%20Stand/800/800",
+    "embedding": []
   },
   {
     "title": "Herb Planter Box",
     "description": "Compact planter box for kitchen herbs and small greens.",
     "price": "34",
     "category": "home",
-    "image": "https://picsum.photos/seed/Herb%20Planter%20Box/800/800"
+    "image": "https://picsum.photos/seed/Herb%20Planter%20Box/800/800",
+    "embedding": []
   },
   {
     "title": "Grip Training Gloves",
     "description": "Comfort-fit gloves made for lifting and gym sessions.",
     "price": "36",
     "category": "sports",
-    "image": "https://picsum.photos/seed/Grip%20Training%20Gloves/800/800"
+    "image": "https://picsum.photos/seed/Grip%20Training%20Gloves/800/800",
+    "embedding": []
   },
   {
     "title": "Everyday Hoodie",
     "description": "Soft fleece hoodie with a relaxed silhouette and clean finish.",
     "price": "82",
     "category": "fashion",
-    "image": "https://picsum.photos/seed/Everyday%20Hoodie/800/800"
+    "image": "https://picsum.photos/seed/Everyday%20Hoodie/800/800",
+    "embedding": []
   },
   {
     "title": "Smart Alarm Clock",
     "description": "Modern bedside alarm clock with display dimming controls.",
     "price": "58",
     "category": "electronics",
-    "image": "https://picsum.photos/seed/Smart%20Alarm%20Clock/800/800"
+    "image": "https://picsum.photos/seed/Smart%20Alarm%20Clock/800/800",
+    "embedding": []
   },
   {
     "title": "Woven Storage Basket",
     "description": "Decorative basket for organizing blankets or toys.",
     "price": "44",
     "category": "home",
-    "image": "https://picsum.photos/seed/Woven%20Storage%20Basket/800/800"
+    "image": "https://picsum.photos/seed/Woven%20Storage%20Basket/800/800",
+    "embedding": []
   },
   {
     "title": "Court Tennis Racket",
     "description": "Balanced racket for casual matches and training drills.",
     "price": "111",
     "category": "sports",
-    "image": "https://picsum.photos/seed/Court%20Tennis%20Racket/800/800"
+    "image": "https://picsum.photos/seed/Court%20Tennis%20Racket/800/800",
+    "embedding": []
   },
   {
     "title": "Minimal Wallet",
     "description": "Slim wallet with multiple slots and a compact footprint.",
     "price": "33",
     "category": "accessories",
-    "image": "https://picsum.photos/seed/Minimal%20Wallet/800/800"
+    "image": "https://picsum.photos/seed/Minimal%20Wallet/800/800",
+    "embedding": []
   },
   {
     "title": "Studio Backpack",
     "description": "Versatile backpack for work, travel, and everyday carry.",
     "price": "76",
     "category": "accessories",
-    "image": "https://picsum.photos/seed/Studio%20Backpack/800/800"
+    "image": "https://picsum.photos/seed/Studio%20Backpack/800/800",
+    "embedding": []
   },
   {
     "title": "Cloud Throw Blanket",
     "description": "Soft throw blanket with a cozy texture for living spaces.",
     "price": "49",
     "category": "home",
-    "image": "https://picsum.photos/seed/Cloud%20Throw%20Blanket/800/800"
+    "image": "https://picsum.photos/seed/Cloud%20Throw%20Blanket/800/800",
+    "embedding": []
   },
   {
     "title": "Momentum Earbuds",
     "description": "Compact earbuds with quick pairing and clear audio.",
     "price": "99",
     "category": "electronics",
-    "image": "https://picsum.photos/seed/Momentum%20Earbuds/800/800"
+    "image": "https://picsum.photos/seed/Momentum%20Earbuds/800/800",
+    "embedding": []
   },
   {
     "title": "Street Cap",
     "description": "Classic adjustable cap with a clean embroidered logo patch.",
     "price": "26",
     "category": "fashion",
-    "image": "https://picsum.photos/seed/Street%20Cap/800/800"
+    "image": "https://picsum.photos/seed/Street%20Cap/800/800",
+    "embedding": []
   },
   {
     "title": "Ridge Hiking Pack",
     "description": "Weather-ready pack made for short hikes and day trips.",
     "price": "112",
     "category": "travel",
-    "image": "https://picsum.photos/seed/Ridge%20Hiking%20Pack/800/800"
+    "image": "https://picsum.photos/seed/Ridge%20Hiking%20Pack/800/800",
+    "embedding": []
   },
   {
     "title": "Balance Foam Roller",
     "description": "Recovery tool for stretching, mobility, and muscle release.",
     "price": "37",
     "category": "sports",
-    "image": "https://picsum.photos/seed/Balance%20Foam%20Roller/800/800"
+    "image": "https://picsum.photos/seed/Balance%20Foam%20Roller/800/800",
+    "embedding": []
   },
   {
     "title": "Gold Hoop Earrings",
     "description": "Polished everyday earrings with a simple timeless look.",
     "price": "54",
     "category": "accessories",
-    "image": "https://picsum.photos/seed/Gold%20Hoop%20Earrings/800/800"
+    "image": "https://picsum.photos/seed/Gold%20Hoop%20Earrings/800/800",
+    "embedding": []
   },
   {
     "title": "Nordic Floor Vase",
     "description": "Tall decorative vase with a sculptural matte silhouette.",
     "price": "68",
     "category": "home",
-    "image": "https://picsum.photos/seed/Nordic%20Floor%20Vase/800/800"
+    "image": "https://picsum.photos/seed/Nordic%20Floor%20Vase/800/800",
+    "embedding": []
   },
   {
     "title": "Quantum Laptop Sleeve",
     "description": "Protective sleeve with padded lining for 13-inch laptops.",
     "price": "41",
     "category": "electronics",
-    "image": "https://picsum.photos/seed/Quantum%20Laptop%20Sleeve/800/800"
+    "image": "https://picsum.photos/seed/Quantum%20Laptop%20Sleeve/800/800",
+    "embedding": []
   },
   {
     "title": "Festival Dress",
     "description": "Flowing dress with a vibrant pattern and easy movement.",
     "price": "93",
     "category": "fashion",
-    "image": "https://picsum.photos/seed/Festival%20Dress/800/800"
+    "image": "https://picsum.photos/seed/Festival%20Dress/800/800",
+    "embedding": []
   },
   {
     "title": "Kitchen Knife Set",
     "description": "Reliable knife set for slicing, chopping, and prep work.",
     "price": "125",
     "category": "home",
-    "image": "https://picsum.photos/seed/Kitchen%20Knife%20Set/800/800"
+    "image": "https://picsum.photos/seed/Kitchen%20Knife%20Set/800/800",
+    "embedding": []
   },
   {
     "title": "Endurance Jump Rope",
     "description": "Speed rope designed for cardio sessions and warmups.",
     "price": "22",
     "category": "sports",
-    "image": "https://picsum.photos/seed/Endurance%20Jump%20Rope/800/800"
+    "image": "https://picsum.photos/seed/Endurance%20Jump%20Rope/800/800",
+    "embedding": []
   },
   {
     "title": "Passport Holder",
     "description": "Travel holder with space for passport, cards, and tickets.",
     "price": "29",
     "category": "travel",
-    "image": "https://picsum.photos/seed/Passport%20Holder/800/800"
+    "image": "https://picsum.photos/seed/Passport%20Holder/800/800",
+    "embedding": []
   }
 ]

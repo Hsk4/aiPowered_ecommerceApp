@@ -6,6 +6,7 @@ export interface Product {
 	price: string;
 	category: string;
 	image: string;
+	embedding: number[]
 }
 
 const productSchema = new mongoose.Schema<Product>(
@@ -30,6 +31,11 @@ const productSchema = new mongoose.Schema<Product>(
 			type: String,
 			required: true,
 		}
+  		,
+  		embedding: {
+  			type: [Number],
+  			default: []
+  		}
  	},
 	{
 		timestamps: true,
