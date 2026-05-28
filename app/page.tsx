@@ -1,5 +1,6 @@
 "use client"
 import Image from "next/image"
+import Link from "next/link"
 import {useEffect, useState} from "react"
 
 type Product = {
@@ -155,9 +156,12 @@ export default function Home() {
                   <span className="text-2xl font-semibold text-cyan-300">
                     ${Number(product.price).toFixed(2)}
                   </span>
-                  <button className="rounded-full border border-cyan-400/30 bg-cyan-400/10 px-4 py-2 text-sm font-medium text-cyan-100 transition hover:bg-cyan-400/20">
+                  <Link
+                    href={`/product/${product._id}`}
+                    className="rounded-full border border-cyan-400/30 bg-cyan-400/10 px-4 py-2 text-sm font-medium text-cyan-100 transition hover:bg-cyan-400/20"
+                  >
                     View details
-                  </button>
+                  </Link>
                 </div>
               </div>
             </article>
